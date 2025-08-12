@@ -1,0 +1,15 @@
+##### Fecha y Hora #####
+Tue Aug 12 12:41:19 PM -03 2025
+##### ID #####
+uid=1000(gquiroz) gid=1000(gquiroz) groups=1000(gquiroz),10(wheel) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+ ##### Sistema Operativo #####
+Linux
+##### Epacio en el disco #####
+Filesystem                  Size  Used Avail Use% Mounted on
+/dev/mapper/almalinux-root   17G  4.8G   13G  29% /
+devtmpfs                    4.0M     0  4.0M   0% /dev
+tmpfs                       836M   84K  836M   1% /dev/shm
+tmpfs                       335M  9.7M  325M   3% /run
+tmpfs                       1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2              960M  391M  570M  41% /boot
+tmpfs                       168M  148K  168M   1% /run/user/1000
