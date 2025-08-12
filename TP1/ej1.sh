@@ -9,3 +9,4 @@ uname >> sys_info.txt
 echo "##### Epacio en el disco #####" >> sys_info.txt
 df -h >> sys_info.txt
 exit
+Test line
