@@ -30,3 +30,21 @@ tmpfs                   1,0M      0  1,0M   0% /run/credentials/systemd-journald
 /dev/nvme0n1p2          960M   470M  491M  49% /boot
 /dev/nvme0n1p1          599M   8,4M  591M   2% /boot/efi
 tmpfs                   168M   136K  167M   1% /run/user/1000
+##### Fecha y Hora #####
+sáb 16 ago 2025 03:55:40 -03
+##### ID #####
+uid=1000(gquiroz) gid=1000(gquiroz) grupos=1000(gquiroz),10(wheel) contexto=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+ ##### Sistema Operativo #####
+Linux
+##### Epacio en el disco #####
+S.ficheros            Tamaño Usados  Disp Uso% Montado en
+/dev/mapper/rhel-root    37G   5,4G   32G  15% /
+devtmpfs                4,0M      0  4,0M   0% /dev
+tmpfs                   836M      0  836M   0% /dev/shm
+efivarfs                256K    56K  196K  23% /sys/firmware/efi/efivars
+tmpfs                   335M   6,9M  328M   3% /run
+tmpfs                   1,0M      0  1,0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2          960M   470M  491M  49% /boot
+/dev/nvme0n1p1          599M   8,4M  591M   2% /boot/efi
+tmpfs                   168M   124K  168M   1% /run/user/1000
+/dev/sr0                7,9G   7,9G     0 100% /run/media/gquiroz/RHEL-10-0-BaseOS-x86_64
